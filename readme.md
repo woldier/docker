@@ -2,7 +2,7 @@
 
 
 
-doucker
+doucker(by woldier,power by tencent cloud)
 
 ## 1. Docker命令
 
